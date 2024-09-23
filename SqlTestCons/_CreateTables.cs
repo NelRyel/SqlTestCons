@@ -15,7 +15,7 @@ namespace SqlTestCons
             {
                 await connection.OpenAsync();
                 SqlCommand command = new SqlCommand();
-                command.CommandText = "CREATE TABLE Games (Id INT PRIMARY KEY INDENTITY, Name NVARCHAR(100) NOT NULL) ";
+                command.CommandText = "CREATE TABLE Games (Id INT PRIMARY KEY INDENTITY, Name NVARCHAR(100) NOT NULL, Description NVARCHAR(1000)) ";
                 command.Connection = connection;
                 await command.ExecuteNonQueryAsync();
                 await Console.Out.WriteLineAsync(   "Table Created");

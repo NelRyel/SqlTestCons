@@ -1,104 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\vs\\projects\\sql\\SqlTestCons\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|e:\\vs\\projects\\sql\\sqltestcons\\sqltestcons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|solutionrelative:sqltestcons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|e:\\vs\\projects\\sql\\sqltestcons\\sqltestcons\\_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|solutionrelative:sqltestcons\\_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|e:\\vs\\projects\\sql\\sqltestcons\\sqltestcons\\_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|solutionrelative:sqltestcons\\_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|e:\\vs\\projects\\sql\\sqltestcons\\sqltestcons\\__connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|solutionrelative:sqltestcons\\__connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\sharpProjects\\SqlTestCons\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 7,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_CreateTables.cs",
-              "DocumentMoniker": "E:\\vs\\projects\\sql\\SqlTestCons\\SqlTestCons\\_CreateTables.cs",
-              "RelativeDocumentMoniker": "SqlTestCons\\_CreateTables.cs",
-              "ToolTip": "E:\\vs\\projects\\sql\\SqlTestCons\\SqlTestCons\\_CreateTables.cs",
-              "RelativeToolTip": "SqlTestCons\\_CreateTables.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T11:59:37.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_CreateDB.cs",
-              "DocumentMoniker": "E:\\vs\\projects\\sql\\SqlTestCons\\SqlTestCons\\_CreateDB.cs",
-              "RelativeDocumentMoniker": "SqlTestCons\\_CreateDB.cs",
-              "ToolTip": "E:\\vs\\projects\\sql\\SqlTestCons\\SqlTestCons\\_CreateDB.cs",
-              "RelativeToolTip": "SqlTestCons\\_CreateDB.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T11:44:42.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "__connect.cs",
-              "DocumentMoniker": "E:\\vs\\projects\\sql\\SqlTestCons\\SqlTestCons\\__connect.cs",
-              "RelativeDocumentMoniker": "SqlTestCons\\__connect.cs",
-              "ToolTip": "E:\\vs\\projects\\sql\\SqlTestCons\\SqlTestCons\\__connect.cs",
-              "RelativeToolTip": "SqlTestCons\\__connect.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T10:45:13.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\vs\\projects\\sql\\SqlTestCons\\SqlTestCons\\Program.cs",
-              "RelativeDocumentMoniker": "SqlTestCons\\Program.cs",
-              "ToolTip": "E:\\vs\\projects\\sql\\SqlTestCons\\SqlTestCons\\Program.cs",
-              "RelativeToolTip": "SqlTestCons\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T11:30:43.844Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

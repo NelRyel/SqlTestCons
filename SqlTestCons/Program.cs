@@ -33,33 +33,33 @@ Console.WriteLine("Hello, World!");
 
 //через юзинг
 //SqlConnection connection = new SqlConnection(__connect.getStringConnect());
-_CreateTables createTables = new _CreateTables();
-createTables.CreateTableGame.;
 
+//_CreateDB db = new _CreateDB();
+//db.CreateDbAsync().Wait();
 
-using (SqlConnection connection = new SqlConnection(__connect.getStringConnectCreated()))
-{
-    await connection.OpenAsync();
-    Console.WriteLine( "opened 1__________");
+//using (SqlConnection connection = new SqlConnection(__connect.getStringConnectMaster()))
+//{
+//    await connection.OpenAsync();
+//    Console.WriteLine( "opened 1__________");
 
-    //await connection.OpenAsync();
-    //SqlCommand command = new SqlCommand();
-    //command.CommandText = "CREATE TABLE Games (Id INT PRIMARY KEY IDENTITY, Name NVARCHAR(100) NOT NULL) ";
-    //command.Connection = connection;
-    //await command.ExecuteNonQueryAsync();
-    //Console.WriteLine("CREATED TABLE");
+//    //await connection.OpenAsync();
+//    //SqlCommand command = new SqlCommand();
+//    //command.CommandText = "CREATE TABLE Games (Id INT PRIMARY KEY IDENTITY, Name NVARCHAR(100) NOT NULL) ";
+//    //command.Connection = connection;
+//    //await command.ExecuteNonQueryAsync();
+//    //Console.WriteLine("CREATED TABLE");
 
-    //Console.WriteLine(connection.ClientConnectionId);
+//    //Console.WriteLine(connection.ClientConnectionId);
 
-    //Console.WriteLine("Свойства подключения:");
-    Console.WriteLine($"\tСтрока подключения: {connection.ConnectionString}");
-    Console.WriteLine($"\tБаза данных: {connection.Database}");
-    //Console.WriteLine($"\tСервер: {connection.DataSource}");
-    //Console.WriteLine($"\tВерсия сервера: {connection.ServerVersion}");
-    //Console.WriteLine($"\tСостояние: {connection.State}");
-    //Console.WriteLine($"\tWorkstationld: {connection.WorkstationId}");
+//    //Console.WriteLine("Свойства подключения:");
+//    Console.WriteLine($"\tСтрока подключения: {connection.ConnectionString}");
+//    Console.WriteLine($"\tБаза данных: {connection.Database}");
+//    //Console.WriteLine($"\tСервер: {connection.DataSource}");
+//    //Console.WriteLine($"\tВерсия сервера: {connection.ServerVersion}");
+//    //Console.WriteLine($"\tСостояние: {connection.State}");
+//    //Console.WriteLine($"\tWorkstationld: {connection.WorkstationId}");
 
-}
+//}
 
 
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SqlTestCons")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5614f5ca50dba31de98aad84dbd61bf1b28b27f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqlTestCons")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqlTestCons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

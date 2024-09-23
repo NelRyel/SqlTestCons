@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sharpProjects\\SqlTestCons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|c:\\sharpprojects\\sqltestcons\\sqltestcons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|solutionrelative:sqltestcons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|c:\\sharpprojects\\sqltestcons\\sqltestcons\\_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|solutionrelative:sqltestcons\\_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|c:\\sharpprojects\\sqltestcons\\sqltestcons\\__connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|solutionrelative:sqltestcons\\__connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|c:\\sharpprojects\\sqltestcons\\sqltestcons\\_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B37094-6F5F-4F13-A287-40695775558E}|SqlTestCons\\SqlTestCons.csproj|solutionrelative:sqltestcons\\_createtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_CreateTables.cs",
+              "DocumentMoniker": "C:\\sharpProjects\\SqlTestCons\\SqlTestCons\\_CreateTables.cs",
+              "RelativeDocumentMoniker": "SqlTestCons\\_CreateTables.cs",
+              "ToolTip": "C:\\sharpProjects\\SqlTestCons\\SqlTestCons\\_CreateTables.cs",
+              "RelativeToolTip": "SqlTestCons\\_CreateTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:59:37.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_CreateDB.cs",
+              "DocumentMoniker": "C:\\sharpProjects\\SqlTestCons\\SqlTestCons\\_CreateDB.cs",
+              "RelativeDocumentMoniker": "SqlTestCons\\_CreateDB.cs",
+              "ToolTip": "C:\\sharpProjects\\SqlTestCons\\SqlTestCons\\_CreateDB.cs",
+              "RelativeToolTip": "SqlTestCons\\_CreateDB.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:44:42.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "__connect.cs",
+              "DocumentMoniker": "C:\\sharpProjects\\SqlTestCons\\SqlTestCons\\__connect.cs",
+              "RelativeDocumentMoniker": "SqlTestCons\\__connect.cs",
+              "ToolTip": "C:\\sharpProjects\\SqlTestCons\\SqlTestCons\\__connect.cs",
+              "RelativeToolTip": "SqlTestCons\\__connect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:45:13.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sharpProjects\\SqlTestCons\\SqlTestCons\\Program.cs",
+              "RelativeDocumentMoniker": "SqlTestCons\\Program.cs",
+              "ToolTip": "C:\\sharpProjects\\SqlTestCons\\SqlTestCons\\Program.cs",
+              "RelativeToolTip": "SqlTestCons\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAD0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:30:43.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
